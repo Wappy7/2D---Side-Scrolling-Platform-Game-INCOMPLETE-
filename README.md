@@ -1,2 +1,2 @@
-# 2D---Side-Scrolling-Platform-Game-INCOMPLETE-
-A Metroid inspired 2D side-scrolling platform shooter game. (Currently incomplete)
+# 2D---Side-Scrolling-Platform-Game-
+A Metroid inspired 2D side-scrolling platform shooter game.
